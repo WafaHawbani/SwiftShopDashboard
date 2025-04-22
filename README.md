@@ -1,5 +1,6 @@
-SwiftShopDashboard 
-The sales dashboard for SwiftShop is built with Python, Pandas, Plotly, and Dash. Visualizes sales data, key metrics, and trends. Allows filtering by date, region, and category, with interactive charts and data export functionality.
+Swift Shop Dashboard 
+
+The SwiftShop Sales Dashboard is built using Python, Pandas, Plotly, and Dash. It provides a comprehensive view of sales performance, trends, and key metrics over time. The dashboard includes interactive charts, filtering options, and export functionality for further analysis.
 
 Features:
 Sales Visualizations: Interactive line charts, pie charts, and histograms to show trends in sales, product category performance, and customer ratings.
@@ -12,26 +13,28 @@ Data Export: You can export the filtered data by selecting your desired filters 
 
 
 Technologies Used:
+
 Python
 
 Pandas
 
-Dash
-
 Plotly
 
+Dash
 
-Installation & Setup:
 
-•	Clone the repository: git clone https://github.com/WafaHawbani/SwiftShopDashboard.git
+Installation & Setup (Windows)
 
-•	Create the virtual environment: python -m venv venv
+• git clone https://github.com/WafaHawbani/SwiftShopDashboard.git
+  cd SwiftShopDashboard
 
-•	Activate the virtual environment: venv\Scripts\activate
+•	Create the virtual environment: python -m venv dashboard-env
+
+•	Activate the virtual environment: dashboard-env\Scripts\activate
 
 •	Install dependencies and run the app: pip install -r requirements.txt
 
 •	Run the application: python app1.py
 
-Open your browser and visit the following URL: http://127.0.0.1:8050/
+Open your browser and visit the following URL: http://127.0.0.1:8050/  (If it shows a different port in the terminal, use that one instead)
 
