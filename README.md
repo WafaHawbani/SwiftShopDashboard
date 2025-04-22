@@ -23,7 +23,7 @@ Plotly
 Dash
 
 
-Installation & Setup (Windows)
+Installation & Setup:
 
 • git clone https://github.com/WafaHawbani/SwiftShopDashboard.git
   cd SwiftShopDashboard
