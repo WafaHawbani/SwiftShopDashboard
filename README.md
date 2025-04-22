@@ -31,5 +31,7 @@ Installation & Setup:
 
 •	Install dependencies and run the app: pip install -r requirements.txt
 
-•	Run the application: python app.py Open your browser and visit the following URL: http://127.0.0.1:8050/
+•	Run the application: python app1.py
+
+Open your browser and visit the following URL: http://127.0.0.1:8050/
 
